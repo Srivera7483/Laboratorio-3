@@ -1,13 +1,13 @@
 # Laboratorio-3 — Programación II  
 **Tema:** Funciones `lambda`, `map()`, `filter()`, `reduce()`, `yield`, `iter()` y listas por comprensión  
-**Estudiante:** *Kuro-Waza*  
+**Estudiante:** *Sebastian Rodrigo Rivera Nahuelhuen*  
 **Carrera:** Ingeniería Civil en Informática  
 **Universidad:** Universidad Católica de Temuco  
 **Profesor:** Guido Mellado  
 
 ---
 
-## 🧩 Descripción
+## Descripción
 
 Este laboratorio tiene como objetivo aplicar conceptos de **programación funcional y orientada a objetos en Python**.  
 Se implementan ejercicios prácticos para consolidar el uso de:
