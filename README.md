@@ -1,6 +1,6 @@
 # Laboratorio-3 — Programación II  
 **Tema:** Funciones `lambda`, `map()`, `filter()`, `reduce()`, `yield`, `iter()` y listas por comprensión  
-**Estudiante:** *Sebastian Rodrigo Rivera Nahuelhuen*  
+**Estudiante:** Sebastian Rodrigo Rivera Nahuelhuen  
 **Carrera:** Ingeniería Civil en Informática  
 **Universidad:** Universidad Católica de Temuco  
 **Profesor:** Guido Mellado  
